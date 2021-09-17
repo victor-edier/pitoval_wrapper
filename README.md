@@ -1,11 +1,11 @@
 # ptwrapper: Pivotal Tracker Wrapper
-Yet Another Wrapper for Pivotal Tracker written in Python, ptwrapper is a simple wrapper to get stories from Pivota Tracker
+Yet Another Wrapper for Pivotal Tracker written in Python, ptwrapper is a simple wrapper to get stories from Pivotal Tracker
 
 ## Features
 - Get stories by release id or release name
 
 ## Usage
-This is and example to get the branches associated with stories in a release
+This is an example to get the branches associated with stories in a release
 ```
 from ptwrapper import PT
 project_id = 'XXXXXX'
